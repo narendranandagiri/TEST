@@ -14,7 +14,7 @@ document.getElementById('queryForm').addEventListener('submit', function(event) 
   
 // Replace this URL with the chat bot API endpoint
 const apiUrl = 'https://api-inference.huggingface.co/models/facebook/blenderbot-1B-distill';
-const apiKey = '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'; 
+const apiKey = 'hf_ZPAaWjtrqZmsVoglrbhrkJubq'; 
 
 
 async function callApi(query) {
